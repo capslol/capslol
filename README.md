@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I'm a middle Frontend Developer with a focus on Re
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=capslol&show_icons=true&count_private=true&hide=prs&theme=dark)
