@@ -1,21 +1,19 @@
 # Hello, I'm Maxim 👋
 
-Welcome to my GitHub profile! I'm a middle Frontend Developer with a focus on React and TypeScript, currently transitioning into Backend Development with a keen interest in learning Go.
+Welcome to my GitHub profile! I'm a middle Frontend Developer with a focus on React and TypeScript, currently expanding my skills into Backend Development with Python and Node.js.
 
 ## About Me
 
-- 🔭 **Currently working on**: Transitioning into backend development.
-- 🌱 **Learning**: and exploring Blockchain and Web3 technologies.
-- 👯 **Looking for**: Opportunities and collaboration in Backend Development, Blockchain, and Web3.
-- 🤔 **Ask me about**: React, TypeScript and Blockchain.
-- 💬 **Connect with me**: [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/maksim-balov-a5809124b/)) | [Habr](https://career.habr.com/sobored)
+- 🔭 **Currently working on**: Expanding into backend development with Python and Node.js
+- 🌱 **Learning**: Python, Node.js, and exploring Blockchain and Web3 technologies
+- 👯 **Looking for**: Opportunities and collaboration in Backend Development, Blockchain, and Web3
+- 🤔 **Ask me about**: React, TypeScript, Next.js, Python, Node.js and Blockchain
+- 💬 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/maksim-balov-a5809124b/) | [Habr](https://career.habr.com/sobored)
 - 📄 **Check out my resume**: [Resume](link-to-resume)
-
 
 ## Technologies and Tools
 
-![Technologies](https://skillicons.dev/icons?i=react,typescript)
-
+![Technologies](https://skillicons.dev/icons?i=react,typescript,nextjs,python,nodejs)
 
 ## GitHub Stats
 
